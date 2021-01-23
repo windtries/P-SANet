@@ -1,3 +1,6 @@
+#!/usr/bin/env python3
+# This file is covered by the LICENSE file in the root of this project.
+
 import torch
 import torch.nn as nn
 from collections import OrderedDict
